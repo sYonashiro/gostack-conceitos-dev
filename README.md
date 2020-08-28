@@ -29,6 +29,8 @@ O projeto é uma aplicação desenvolvida dentro do curso **Bootcamp GoStack**, 
     $ cd gostack-conceitos-dev
 ```
 
+---
+
 ## ⚡ Como executar o projeto
 
 ### Back-end
